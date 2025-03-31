@@ -15,10 +15,7 @@
 - Java 17
 - Maven
 - JDA (Java Discord API) 5.0.0-beta.24
-- SLF4J
 - JSON
-
-## 使用前準備
 
 ### 必要條件
 
