@@ -1,0 +1,10 @@
+package com.example;
+
+public class DefaultValue {
+    public static final String  Discord_Bot = "YOUR_DISCORD_BOT_TOKEN";
+    public static final String  Guild = "YOUR_GUILD_ID";
+    public static final String  MinecraftWhiteListTxt_Path = "demo\\src\\main\\resource\\MinecraftWhiteList.txt";
+    public static final String  MinecraftWhiteListJson_Path = "demo\\src\\main\\resource\\MinecraftWhiteList.json";
+    public static final String  MinecraftMajangAPI_Url = "https://api.mojang.com/users/profiles/minecraft/";
+    public static final String  MinecraftServerIP_Path = "YOUR_SERVER_IP";
+} 
