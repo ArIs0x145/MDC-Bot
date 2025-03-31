@@ -1,4 +1,4 @@
-# Minecraft Discord Bot
+# Minecraft Discord Bot (土炮流)
 
 一個用於管理Minecraft伺服器白名單的Discord機器人，可讓玩家透過Discord綁定他們的Minecraft帳號。
 
